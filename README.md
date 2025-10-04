@@ -16,7 +16,7 @@ Built with **React**, **Tailwind CSS**, and **Framer Motion** for smooth animati
 ---
 
 ## Live Demo
-[View Portfolio Live](https://Avneesh-Chaurasia.github.io/Portfolio/)
+[View Portfolio Live](https://avneeshchaurasiaportfolio.netlify.app/)
 
 ---
 
