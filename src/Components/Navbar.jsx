@@ -80,7 +80,7 @@ const Navbar = () => {
             <button
               key={item.id}
               onClick={() => handleScrollTo(item.id)}
-              className={`flex items-center gap-2 px-4 py-2 rounded-lg transition-all duration-300 ${
+              className={`flex items-center gap-2 px-4 py-2 rounded-lg transition-all cursor-pointer duration-300 ${
                 activeSection === item.id
                   ? 'border-2 border-lime-400 text-lime-300 shadow-[0_0_10px_rgba(163,230,53,0.6)]'
                   : 'border-2 border-transparent hover:border-lime-400 hover:shadow-[0_0_8px_rgba(163,230,53,0.5)] hover:text-lime-300'
