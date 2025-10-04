@@ -1,0 +1,19 @@
+/* Mobile-first approach: Default styles for screens smaller than 600px */
+.container {
+  display: flex;
+  flex-direction: column; /* Items stack vertically by default */
+  gap: 1rem;
+}
+
+.item {
+  background-color: lightcoral;
+  padding: 1rem;
+  text-align: center;
+}
+
+/* Media query for screens larger than 600px */
+@media (min-width: 600px) {
+  .container {
+    flex-direction: row; /* Items align horizontally */
+  }
+}
