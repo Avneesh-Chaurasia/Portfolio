@@ -1,6 +1,6 @@
 # Portfolio - Avneesh Chaurasia
 
-![Portfolio Screenshot](./assets/portfolio-ss.png) <!-- Optional: Replace with actual screenshot -->
+![Portfolio Screenshot](../src/assets/portfolio-ss.png) <!-- Optional: Replace with actual screenshot -->
 
 ## Overview
 This is my personal portfolio website showcasing my skills, projects, and contact information.  
